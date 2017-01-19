@@ -8,7 +8,7 @@ Setting up Bash scripts to work on your machine is easy; see [this guide](http:/
 
 ##Setup: 
 
-I've included my Bash scripts in this repo. You can pick and choose among them as you see fit; what follows is a step by step guide to how I use these scripts to set up Webpack. 
+I've included my Bash scripts in this repo. You can pick and choose among them as you see fit; what follows is a step by step guide to how I use these scripts to set up Webpack. All of the scripts are contained in the scripts directory in this repo. 
 
 *Note: the following assumes you are creating a brand new project in a new repo.* 
 
