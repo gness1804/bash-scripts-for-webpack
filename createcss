@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo '@import "variables.scss";
+@import "mixins.scss"; 
+@import "debug.scss";
+@import "mobile.scss";
+'> lib/styles.scss
+touch lib/variables.scss
+touch lib/mixins.scss
+createdebugscss
+touch lib/mobile.scss

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+npm install && npm init && initialdep && createpackagejson && npm install && bigsetup && npm run build

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+npm install --save-dev webpack webpack-dev-server mocha mocha-loader chai	

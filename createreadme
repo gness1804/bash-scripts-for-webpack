@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Please enter the initial text for the readme file."
+read text
+echo $text > readme.md
