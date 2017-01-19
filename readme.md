@@ -2,7 +2,7 @@
 
 ![Intro image](images/createpackagejson.png)
 
-This is a repo of Bash scripts meant to help developers set up Webpack more effectively. It stems from [a talk that I gave](https://gness1804.github.io/blog-in-react/) at a [January 2017 ReactJS meetup](https://www.meetup.com/ReactJS-Denver/events/236084764/?comment_table_id=474757070&comment_table_name=event_comment) in Denver on the subject. (Slide deck is available [here](https://docs.google.com/presentation/d/1zdsfh6ut2TF5NOwfsC9LhXUiyQ_QXynoif1oVJV4MpQ/edit?usp=sharing)). 
+This is a repo of Bash scripts meant to help developers set up Webpack more effectively. It stems from [a talk that I gave](https://gness1804.github.io/blog-in-react/) at a [January 2017 ReactJS meetup](https://www.meetup.com/ReactJS-Denver/events/236084764/) in Denver on the subject. (Slide deck is available [here](https://docs.google.com/presentation/d/1zdsfh6ut2TF5NOwfsC9LhXUiyQ_QXynoif1oVJV4MpQ/edit?usp=sharing)). 
 
 Setting up Bash scripts to work on your machine is easy; see [this guide](http://ss64.com/osx/syntax-shellscript.html). Once this is set up, you can simply copy and paste the scripts into files with the same name in your `~/scripts` directory.
 
