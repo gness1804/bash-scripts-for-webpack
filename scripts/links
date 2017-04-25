@@ -1,0 +1,21 @@
+#!/bin/bash 
+
+echo '
+  [Github](https://github.com/gness1804)
+  [Portfolio Site](http://www.grahamnessler.com/)
+  [LinkedIn](https://www.linkedin.com/in/gness1804)
+  [Twitter](https://twitter.com/gness1804)
+  [Turing Alumni Profile](https://www.turing.io/alumni/graham-nessler)
+  [Stack Overflow](https://stackoverflow.com/users/7229065/graham-nessler)
+
+  graham@grahamnessler.com
+  graham.nessler@gmail.com
+  gnessler@umich.edu
+
+  Short form: 
+  Github: @gness1804
+  Portfolio: www.grahamnessler.com 
+  Twitter: @gness1804
+
+  You can also check out my <a href="https://www.linkedin.com/in/graham-nessler-b9025756">LinkedIn</a> and <a href="https://github.com/gness1804">Github</a> pages.
+'

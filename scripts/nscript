@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd ~/scripts
+echo "Please enter the name of the new script."
+read name
+vim $name
+auth $name

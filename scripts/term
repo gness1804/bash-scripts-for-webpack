@@ -1,0 +1,9 @@
+#!/bin/bash 
+
+if [ ! $1 ]
+then
+  echo "Error: You must enter a program/process."
+else 
+  OUTPUT="$(pidof $1)"
+  kill ${OUTPUT}
+fi
