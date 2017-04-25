@@ -1,0 +1,12 @@
+#!/bin/bash 
+
+echo "Do you know how many commits you want to go back?"
+read answer 
+if [ $answer == y ]
+then 
+  echo "How many commits back?"
+  read answer2
+  git rebase -i HEAD~$answer2
+else 
+  git log --oneline
+fi

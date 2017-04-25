@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo '##Notes' > notes.md
+echo 'notes.md' >> .gitignore 

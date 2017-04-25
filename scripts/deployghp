@@ -1,0 +1,8 @@
+#!/bin/bash
+
+git add .
+git commit -m 'deploying to gh-pages'
+npm run build
+git push origin gh-pages
+git add .
+git commit -m 'deployed to gh-pages'
